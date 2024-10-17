@@ -1,7 +1,7 @@
 # PrimerTemplate 
 
 This repo have two files: 
-  Mispriming.py 
+  Mispriming.py \ & 
   TwoSideChange.py. 
 
 ## Mispriming.py
