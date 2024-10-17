@@ -1,0 +1,11 @@
+# PrimerTemplate 
+
+This repo have two files: 
+  Mispriming.py 
+  TwoSideChange.py. 
+
+## Mispriming.py
+This have the source code for calculating Gibbs free energy (∆G) of primer-template complex.
+
+## TwoSideChange.py
+This have the source code for calculating Gibbs free energy (∆G) of primer-template complex while changing each nucleotide from both edges of the primer.
